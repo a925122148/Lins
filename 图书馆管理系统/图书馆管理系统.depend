@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1624283658 source:c:\users\pants\desktop\测试\图书馆管理系统\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<vector>
+	<stdlib.h>
+	<string.h>
+
+1624505362 source:c:\users\pants\desktop\图书馆管理系统\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<vector>
+	<stdlib.h>
+	<string.h>
+
